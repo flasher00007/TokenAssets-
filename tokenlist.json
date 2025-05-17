@@ -4,7 +4,7 @@
   "tokens": [
     {
       "chainId": 56,
-      "address": "0x900a5d21aecfcae28cd5244d4ed59cb5c758e030",
+      "address": "7cf8ffcbeb51e1be66f9ea420c17f00f5e61a29676c15b4d085ccd600f401c4e",
       "name": "Tether USD Bridged",
       "symbol": "USDT",
       "decimals": 18,
